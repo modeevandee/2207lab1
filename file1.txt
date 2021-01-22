@@ -1,2 +1,3 @@
 this is some line text.
 second line text
+third line text
